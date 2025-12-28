@@ -11,3 +11,6 @@ There is 1000% indemnification for any damages/claims whatsover.
 
 <img width="2274" height="1689" alt="image" src="https://github.com/user-attachments/assets/a1b50811-172f-48fb-be4e-30f75bb0f41a" />
 
+Added 'support' for QMX - 
+
+<img width="2776" height="2132" alt="image" src="https://github.com/user-attachments/assets/127968fa-1a87-476b-b320-fc981f88a531" />
