@@ -17,4 +17,5 @@ Added 'support' for QMX -
 
 Added QMX+ : 
 
-<img width="2907" height="2156" alt="image" src="https://github.com/user-attachments/assets/25048292-de24-4295-aa2d-52499e4f8ea6" />
+<img width="2914" height="2155" alt="image" src="https://github.com/user-attachments/assets/b762c6a4-ff2d-4663-990a-9b3ceacf3314" />
+
