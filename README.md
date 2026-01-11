@@ -19,3 +19,6 @@ Added QMX+ :
 
 <img width="2914" height="2155" alt="image" src="https://github.com/user-attachments/assets/b762c6a4-ff2d-4663-990a-9b3ceacf3314" />
 
+Some 'experimenting' in the 'sandbox':
+
+<img width="3806" height="2047" alt="image" src="https://github.com/user-attachments/assets/4924bff8-c644-4c37-a166-d7d081bc415b" />
