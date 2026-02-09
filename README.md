@@ -1,4 +1,5 @@
 # qcx_mini_example_cat_interface
+* This is tested with firmware release 1_02_009 - you may have difficulty running with other firmware releases.
 An example python script to interface to the QRP Labs QCX mini.
 Environment: Anaconda
 Useage:  python <script.py>
